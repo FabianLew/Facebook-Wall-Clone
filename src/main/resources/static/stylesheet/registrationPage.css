@@ -1,0 +1,15 @@
+#container{
+    position: absolute;
+    left: 50%;
+    top: 30%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.form-floating{
+    margin: 2px;
+}
+
+#submitBtn{
+    width: 100%;
+}

@@ -1,6 +1,6 @@
 package com.fabianlewandowski.facebookwallclone.service;
 
-import com.fabianlewandowski.facebookwallclone.mode.User;
+import com.fabianlewandowski.facebookwallclone.model.User;
 import com.fabianlewandowski.facebookwallclone.repository.UserRepo;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
